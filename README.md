@@ -2,6 +2,7 @@
 
 This project utilizes Power BI to analyze call center data, aiming to optimize operations and enhance customer satisfaction through actionable insights. Key metrics such as call volumes, response times, agent performance, and customer feedback are visualized to identify trends and areas for improvement.
 
+![](Call_Centre_Trends__dashboard.png)
 ## Features
 
 - **Data Visualization:** Interactive dashboards and reports for visualizing call center performance metrics.
